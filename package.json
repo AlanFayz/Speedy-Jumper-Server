@@ -1,0 +1,19 @@
+{
+  "name": "speedy_jumper_server",
+  "version": "1.0.0",
+  "description": "server for speedy-jumper game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanFayz/Speedy-Jumper-Server.git"
+  },
+  "author": "Alan Fayz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AlanFayz/Speedy-Jumper-Server/issues"
+  },
+  "homepage": "https://github.com/AlanFayz/Speedy-Jumper-Server#readme"
+}
