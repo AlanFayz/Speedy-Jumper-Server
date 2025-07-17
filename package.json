@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AlanFayz/Speedy-Jumper-Server/issues"
   },
-  "homepage": "https://github.com/AlanFayz/Speedy-Jumper-Server#readme"
+  "homepage": "https://github.com/AlanFayz/Speedy-Jumper-Server#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
 }
